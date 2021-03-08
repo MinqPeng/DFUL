@@ -1,0 +1,25 @@
+Using Theano backend
+==py3.4 Env==
+cycler                    0.10.0                    <pip>
+h5py                      2.7.1                     <pip>
+install                   1.3.0                     <pip>
+Keras                     1.2.0                     <pip>
+matplotlib                2.1.2                     <pip>
+numpy                     1.15.4                    <pip>
+Pillow                    5.0.0                     <pip>
+pip                       9.0.1                    py34_1
+pyparsing                 2.2.0                     <pip>
+python                    3.4.4                         5
+python-dateutil           2.6.1                     <pip>
+pytz                      2018.3                    <pip>
+PyYAML                    5.3.1                     <pip>
+scikit-learn              0.17.1                    <pip>
+scipy                     1.1.0                     <pip>
+setuptools                27.2.0                   py34_1
+six                       1.15.0                    <pip>
+Theano                    1.0.5                     <pip>
+vc                        10                            0
+vs2010_runtime            10.00.40219.1                 2
+wheel                     0.36.2             pyhd3eb1b0_0
+==Result==
+MNIST dataset VaDE - clustering accuracy: 94.46%
